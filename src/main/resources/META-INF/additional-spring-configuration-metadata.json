@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "name": "IS_PRODUCTION",
+      "type": "java.lang.String",
+      "description": "A description for 'IS_PRODUCTION'"
+    },
+    {
+      "name": "SUNAT_TOKEN",
+      "type": "java.lang.String",
+      "description": "A description for 'SUNAT_TOKEN'"
+    },
+    {
+      "name": "JWT_SECRET_KEY",
+      "type": "java.lang.String",
+      "description": "A description for 'JWT_SECRET_KEY'"
+    },
+    {
+      "name": "JWT_EXP_TIME",
+      "type": "java.lang.String",
+      "description": "A description for 'JWT_EXP_TIME'"
+    },
+    {
+      "name": "application.bucket.name",
+      "type": "java.lang.String",
+      "description": "A description for 'application.bucket.name'"
+    },
+    {
+      "name": "spring.timezone",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.timezone'"
+    }
+  ]
+}
